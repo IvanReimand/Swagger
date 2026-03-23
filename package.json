@@ -1,0 +1,14 @@
+{
+  "name": "swagger-pet-tests",
+  "version": "1.0.0",
+  "description": "Tests for Swagger Petstore API",
+  "scripts": {
+    "test": "jest --testPathPattern=tests"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
